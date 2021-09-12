@@ -1,2 +1,2 @@
 # Doc-Page
-This is a projekt that documents my coding skills.
+This is a website that documents my coding progress.
